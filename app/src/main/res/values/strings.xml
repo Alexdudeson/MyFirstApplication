@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyFirstApplication</string>
+
+
+    <string name="button2_counter_plus_1">Button</string>
+    <string name="button1_counter_plus_1">Button</string>
+    <string name="welcome_to_count_stuff_counter" />
+    <string name="button3_counter_random">Random</string>
+    <string name="add_2">Add +2</string>
+    <string name="_0">0</string>
+    <string name="stuff_counter">Stuff Counter</string>
+    <string name="add_1">Add +1</string>
+    <string name="random">Random</string>
+</resources>
